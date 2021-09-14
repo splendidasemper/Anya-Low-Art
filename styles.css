@@ -74,3 +74,10 @@ h3 {
 .navbar {
   padding: 0 0 4.5rem;
 }
+
+
+.fixedbutton {
+    position: fixed;
+    bottom: 560px;
+    right: 1000px; 
+}
